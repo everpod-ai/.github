@@ -1,6 +1,6 @@
 # Everpod
 
-Everpod is an easy way to get your own always-on, persistent cloud computer for AI agents, working in minutes: as a developer pod with your pick of Claude Code, Codex, OpenCode, Pi, Hermes and OpenClaw installed, or with OpenClaw set up and run for you.
+Everpod puts your own AI agent on an always-on cloud computer, secured and backed up: run Claude Code, Codex or any agent you use on a machine that is yours, or have OpenClaw set up and run for you.
 
 - **A developer pod** is a cloud computer you run yourself, with your pick of Claude Code, Codex, OpenCode, Pi, Hermes and OpenClaw installed, reached only over your own Tailscale network, so your agents keep working when your laptop is closed. [The developer pod](https://everpod.ai/developer-pod).
 - **An OpenClaw pod** is OpenClaw set up and run for you on a private computer of its own: set up, secured, backed up and kept up to date for you. [Create your agent](https://everpod.ai).
